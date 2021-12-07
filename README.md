@@ -16,7 +16,7 @@ Totusi, avand doar 10 cifre in loc de 26 de caractere, era mai simplu de rezolva
   Echipa Adversa1 : Lilled https://github.com/Federicis/Criptare-XOR
   
   Parola folosita: ETOTFILOZOFIE
-  Pentru partea 1 am copiat din fisierul lor input o bucata de text de la inceput si o bucata de text din fisierul output fisierul output si am facut o simpla xorare in python pentru a obtine parola (care se repeta)
+  Pentru partea 1 am copiat din fisierul lor input o bucata de text de la inceput si o bucata de text din fisierul output si am facut o simpla xorare in python pentru a obtine parola (care se repeta)
   
   Pentru partea 2 o solutie ar fi incercarea spargerii parolei stiind ca este formata din litere si cifre (aprox. 36^15 combinatii din care am pastra pe cele unde intalnim in output cuvinte comune pentru un text literar: "de" "si"...), insa codul nu s-ar termina de rulat inainte sa se termine proiectul...
   
