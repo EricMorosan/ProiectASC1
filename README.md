@@ -21,6 +21,6 @@ Totusi, avand doar 10 cifre in loc de 26 de caractere, era mai simplu de rezolva
   
   Pentru partea 2 o solutie ar fi incercarea spargerii parolei stiind ca este formata din litere si cifre (aprox. 36^15 combinatii din care am pastra pe cele unde intalnim in output cuvinte comune pentru un text literar: "de" "si"...), insa codul nu s-ar termina de rulat inainte sa se termine proiectul...
   
-  Echipa Adversa2: Cei_sqrt(9)_musafiri https://github.com/DariaClem/Proiect
-  linkul de github nu functioneaza, insa metoda ar fi aceeasi
+  Echipa Adversa2: Cei_sqrt(9)_musafiri https://github.com/DariaClem/ProiectASC
+  Parola: Bw4dUHW7fqN1De
   
