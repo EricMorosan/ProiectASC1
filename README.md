@@ -1,4 +1,5 @@
 # ProiectASC1
+Echipa: UTF-8 abuser
 Proiect ASC 2021 
 
 Input si output sunt fisierele pentru encrypt.py
